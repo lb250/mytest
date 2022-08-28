@@ -17,6 +17,7 @@ public class Client3 {
 				//连接服务器
 				Socket socket = new Socket("127.0.0.1",10002);
 				int t=3;
+				//主分支修改
 				//从控制台接收的输入流
 				BufferedReader br;
 				//向服务器端发送的输出流
