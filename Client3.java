@@ -21,6 +21,7 @@ public class Client3 {
 				//主分支修改
 				//你狠好
 				//从控制台接收的输入流
+				//添加新功能
 				BufferedReader br;
 				//向服务器端发送的输出流
 				PrintStream ps;
