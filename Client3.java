@@ -12,6 +12,7 @@ public class Client3 {
 	//客户端主线程：
 		public static void main(String[] args) {
 			System.out.println("客户端3号");
+			//bug已经修改完毕
 			
 			try {
 				//连接服务器
